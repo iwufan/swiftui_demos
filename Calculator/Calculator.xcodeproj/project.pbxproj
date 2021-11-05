@@ -68,12 +68,12 @@
 				635027AF2733C488008DA42E /* Common */,
 				635027AA2733BF48008DA42E /* Extension */,
 				6350279C27337D62008DA42E /* CalculatorApp.swift */,
-				635027BA2733F8AE008DA42E /* CalculatorBrain.swift */,
 				6350279E27337D62008DA42E /* ContentView.swift */,
 				635027AD2733C3C5008DA42E /* CalculatorButton.swift */,
 				635027B62733D6F5008DA42E /* CalculatorButtonRow.swift */,
 				635027B82733D935008DA42E /* CalculatorButtonPad.swift */,
 				635027B42733CB73008DA42E /* CalculatorButtonItem.swift */,
+				635027BA2733F8AE008DA42E /* CalculatorBrain.swift */,
 				635027A027337D65008DA42E /* Assets.xcassets */,
 				635027A227337D65008DA42E /* Preview Content */,
 			);
