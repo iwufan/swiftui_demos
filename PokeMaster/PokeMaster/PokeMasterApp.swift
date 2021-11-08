@@ -11,7 +11,9 @@ import SwiftUI
 struct PokeMasterApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
+//            SettingRootView()
+            PokemonRootView()
         }
     }
 }
